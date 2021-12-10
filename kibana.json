@@ -1,6 +1,6 @@
 {
   "id": "cohortVisualization",
-  "version": "7.12.0",
+  "version": "7.14.0",
   "kibanaVersion": "kibana",
   "requiredPlugins": ["data", "expressions", "visualizations", "charts"],
   "optionalPlugins": ["kibanaUtils", "kibanaReact"],
